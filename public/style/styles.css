@@ -1,0 +1,25 @@
+section {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+    font-style: italic;
+    color: beige;
+}
+
+h1:hover {
+    color: blue;
+}
+
+img {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    justify-content:end;
+}
